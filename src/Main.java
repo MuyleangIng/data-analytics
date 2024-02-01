@@ -7,5 +7,18 @@ public class Main {
         System.out.println("Hello world!");
         rith();
         System.out.println("Hello world!");
+        System.out.println("Panda");
+
+
+
+
+
+
+
+        System.out.println("push, pull, push, pull :)");
+
+
+
+
     }
 }
